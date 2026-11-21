@@ -1,0 +1,14 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuración local de editores
+.vscode/
+.idea/
+
+# Archivo de logs generado en cada ejecución
+software_fj/logs/
